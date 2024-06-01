@@ -52,10 +52,10 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shubhamdhobale&theme=tokyonight&hide_border=false) 
-![](https://github-readme-stats.vercel.app/api?username=shubhamdhobale&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamdhobale&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+![](https://github-readme-stats.vercel.app/api?username=shubhamdhobale&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
